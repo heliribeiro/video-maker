@@ -1,0 +1,20 @@
+{
+  "name": "video-maker",
+  "version": "1.0.0",
+  "description": "Projeto open source para fazer vídeos automatizados - inspirado em uma playlist do canal do Filipe Deschamps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heliribeiro/video-maker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heliribeiro/video-maker/issues"
+  },
+  "homepage": "https://github.com/heliribeiro/video-maker#readme"
+}
